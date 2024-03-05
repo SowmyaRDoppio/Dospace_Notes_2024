@@ -1,5 +1,5 @@
 # Arthemetic_Exception
-
+```java
 package Exception;
 
 public class Arthemetic_Exception {
@@ -13,6 +13,7 @@ public class Arthemetic_Exception {
     	  }
       }
 }
+```
 
 # Arthemetic_Exception_2
 
